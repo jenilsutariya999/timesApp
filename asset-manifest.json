@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/timesApp/static/css/main.8287e161.css",
+    "main.js": "/timesApp/static/js/main.dc60f01a.js",
+    "static/js/453.03d9b4f1.chunk.js": "/timesApp/static/js/453.03d9b4f1.chunk.js",
+    "index.html": "/timesApp/index.html",
+    "main.8287e161.css.map": "/timesApp/static/css/main.8287e161.css.map",
+    "main.dc60f01a.js.map": "/timesApp/static/js/main.dc60f01a.js.map",
+    "453.03d9b4f1.chunk.js.map": "/timesApp/static/js/453.03d9b4f1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8287e161.css",
+    "static/js/main.dc60f01a.js"
+  ]
+}
